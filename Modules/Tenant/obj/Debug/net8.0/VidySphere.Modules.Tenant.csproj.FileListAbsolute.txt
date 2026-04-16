@@ -1,0 +1,11 @@
+D:\Preeti\Training\VidySphere\Modules\Tenant\bin\Debug\net8.0\VidySphere.Modules.Tenant.deps.json
+D:\Preeti\Training\VidySphere\Modules\Tenant\bin\Debug\net8.0\VidySphere.Modules.Tenant.dll
+D:\Preeti\Training\VidySphere\Modules\Tenant\bin\Debug\net8.0\VidySphere.Modules.Tenant.pdb
+D:\Preeti\Training\VidySphere\Modules\Tenant\obj\Debug\net8.0\VidySphere.Modules.Tenant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Preeti\Training\VidySphere\Modules\Tenant\obj\Debug\net8.0\VidySphere.Modules.Tenant.AssemblyInfoInputs.cache
+D:\Preeti\Training\VidySphere\Modules\Tenant\obj\Debug\net8.0\VidySphere.Modules.Tenant.AssemblyInfo.cs
+D:\Preeti\Training\VidySphere\Modules\Tenant\obj\Debug\net8.0\VidySphere.Modules.Tenant.csproj.CoreCompileInputs.cache
+D:\Preeti\Training\VidySphere\Modules\Tenant\obj\Debug\net8.0\VidySphere.Modules.Tenant.dll
+D:\Preeti\Training\VidySphere\Modules\Tenant\obj\Debug\net8.0\refint\VidySphere.Modules.Tenant.dll
+D:\Preeti\Training\VidySphere\Modules\Tenant\obj\Debug\net8.0\VidySphere.Modules.Tenant.pdb
+D:\Preeti\Training\VidySphere\Modules\Tenant\obj\Debug\net8.0\ref\VidySphere.Modules.Tenant.dll

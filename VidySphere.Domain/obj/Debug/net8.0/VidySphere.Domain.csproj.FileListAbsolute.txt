@@ -1,0 +1,11 @@
+D:\Preeti\Training\VidySphere\VidySphere.Domain\bin\Debug\net8.0\VidySphere.Domain.deps.json
+D:\Preeti\Training\VidySphere\VidySphere.Domain\bin\Debug\net8.0\VidySphere.Domain.dll
+D:\Preeti\Training\VidySphere\VidySphere.Domain\bin\Debug\net8.0\VidySphere.Domain.pdb
+D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\VidySphere.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\VidySphere.Domain.AssemblyInfoInputs.cache
+D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\VidySphere.Domain.AssemblyInfo.cs
+D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\VidySphere.Domain.csproj.CoreCompileInputs.cache
+D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\VidySphere.Domain.dll
+D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\refint\VidySphere.Domain.dll
+D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\VidySphere.Domain.pdb
+D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\ref\VidySphere.Domain.dll

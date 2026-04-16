@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "VidySphere.Application/1.0.0": {
+        "dependencies": {
+          "VidySphere.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VidySphere.Application.dll": {}
+        }
+      },
+      "VidySphere.Domain/1.0.0": {
+        "runtime": {
+          "VidySphere.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VidySphere.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VidySphere.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

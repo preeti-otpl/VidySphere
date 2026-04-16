@@ -1,0 +1,15 @@
+D:\Preeti\Training\VidySphere\VidySphere.Application\bin\Debug\net9.0\VidySphere.Application.deps.json
+D:\Preeti\Training\VidySphere\VidySphere.Application\bin\Debug\net9.0\VidySphere.Application.dll
+D:\Preeti\Training\VidySphere\VidySphere.Application\bin\Debug\net9.0\VidySphere.Application.pdb
+D:\Preeti\Training\VidySphere\VidySphere.Application\bin\Debug\net9.0\VidySphere.Domain.dll
+D:\Preeti\Training\VidySphere\VidySphere.Application\bin\Debug\net9.0\VidySphere.Domain.pdb
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\VidySphere.Application.csproj.AssemblyReference.cache
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\VidySphere.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\VidySphere.Application.AssemblyInfoInputs.cache
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\VidySphere.Application.AssemblyInfo.cs
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\VidySphere.Application.csproj.CoreCompileInputs.cache
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\VidySphe.32587453.Up2Date
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\VidySphere.Application.dll
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\refint\VidySphere.Application.dll
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\VidySphere.Application.pdb
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net9.0\ref\VidySphere.Application.dll

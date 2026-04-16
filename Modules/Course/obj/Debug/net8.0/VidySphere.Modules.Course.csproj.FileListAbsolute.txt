@@ -1,0 +1,11 @@
+D:\Preeti\Training\VidySphere\Modules\Course\bin\Debug\net8.0\VidySphere.Modules.Course.deps.json
+D:\Preeti\Training\VidySphere\Modules\Course\bin\Debug\net8.0\VidySphere.Modules.Course.dll
+D:\Preeti\Training\VidySphere\Modules\Course\bin\Debug\net8.0\VidySphere.Modules.Course.pdb
+D:\Preeti\Training\VidySphere\Modules\Course\obj\Debug\net8.0\VidySphere.Modules.Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\Preeti\Training\VidySphere\Modules\Course\obj\Debug\net8.0\VidySphere.Modules.Course.AssemblyInfoInputs.cache
+D:\Preeti\Training\VidySphere\Modules\Course\obj\Debug\net8.0\VidySphere.Modules.Course.AssemblyInfo.cs
+D:\Preeti\Training\VidySphere\Modules\Course\obj\Debug\net8.0\VidySphere.Modules.Course.csproj.CoreCompileInputs.cache
+D:\Preeti\Training\VidySphere\Modules\Course\obj\Debug\net8.0\VidySphere.Modules.Course.dll
+D:\Preeti\Training\VidySphere\Modules\Course\obj\Debug\net8.0\refint\VidySphere.Modules.Course.dll
+D:\Preeti\Training\VidySphere\Modules\Course\obj\Debug\net8.0\VidySphere.Modules.Course.pdb
+D:\Preeti\Training\VidySphere\Modules\Course\obj\Debug\net8.0\ref\VidySphere.Modules.Course.dll
