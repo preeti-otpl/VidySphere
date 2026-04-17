@@ -1,10 +1,10 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using VidySphere.Application.Interfaces;
 
 namespace VidySphere.Application.Services
 {
@@ -20,6 +20,20 @@ namespace VidySphere.Application.Services
         public int GetTenantId()
         {
             return Convert.ToInt32(_httpContextAccessor.HttpContext?.Items["TenantId"]);
+        }
+
+
+        public int TenantId
+        {
+            get
+            {
+                var tenant = _httpContextAccessor.HttpContext?.Items["TenantId"];
+
+                if (tenant == null)
+                    throw new Exception("Tenant not found");
+
+                return Convert.ToInt32(tenant);
+            }
         }
     }
 }

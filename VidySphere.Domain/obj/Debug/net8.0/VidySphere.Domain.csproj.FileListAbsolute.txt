@@ -9,3 +9,4 @@ D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\VidySphere.Doma
 D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\refint\VidySphere.Domain.dll
 D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\VidySphere.Domain.pdb
 D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\ref\VidySphere.Domain.dll
+D:\Preeti\Training\VidySphere\VidySphere.Domain\obj\Debug\net8.0\VidySphere.Domain.sourcelink.json

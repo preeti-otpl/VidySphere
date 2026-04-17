@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VidySphere.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81fc4efb99aaf41c47b0485abd03ab8f480a314")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2053d7156e343488b49e22b24676d1587133abe")]
 [assembly: System.Reflection.AssemblyProductAttribute("VidySphere.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VidySphere.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

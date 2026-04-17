@@ -151,3 +151,9 @@ D:\Preeti\Training\VidySphere\VidySphere.API\obj\Debug\net8.0\ref\VidySphere.API
 D:\Preeti\Training\VidySphere\VidySphere.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Preeti\Training\VidySphere\VidySphere.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Preeti\Training\VidySphere\VidySphere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Preeti\Training\VidySphere\VidySphere.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Preeti\Training\VidySphere\VidySphere.API\bin\Debug\net8.0\Dapper.dll
+D:\Preeti\Training\VidySphere\VidySphere.API\bin\Debug\net8.0\FluentValidation.dll
+D:\Preeti\Training\VidySphere\VidySphere.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Preeti\Training\VidySphere\VidySphere.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Preeti\Training\VidySphere\VidySphere.API\obj\Debug\net8.0\VidySphere.API.sourcelink.json

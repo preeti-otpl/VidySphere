@@ -9,8 +9,7 @@ namespace VidySphere.Domain.Interfaces
 {
     public interface ICourseRepository
     {
-        Task<List<Course>> GetAllAsync(int tenantId);
-        Task<Course?> GetByIdAsync(int id, int tenantId);
         Task AddAsync(Course course);
+        Task<IEnumerable<Course>> GetAllAsync();
     }
 }

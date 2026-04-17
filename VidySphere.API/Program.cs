@@ -1,9 +1,11 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System;
+using System.Data;
 using System.Text;
 using VidySphere.API.Middlewares;
 using VidySphere.Application.Interfaces;
@@ -12,6 +14,7 @@ using VidySphere.Application.Validators;
 using VidySphere.Domain.Interfaces;
 using VidySphere.Infrastructure.Data;
 using VidySphere.Infrastructure.Repositories;
+using VidySphere.Infrastructure.TestingRepository;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -34,6 +37,11 @@ builder.Services.AddControllers();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseInMemoryDatabase("VidySphereDb"));
+
+//builder.Services.AddScoped<IDbConnection>(sp =>
+//    new SqlConnection(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -54,6 +62,8 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<ITenantProvider, TenantProvider>();
+builder.Services.AddScoped<ICourseRepository, TestCourseRepository>();
+builder.Services.AddScoped<ICourseService, CourseService>();
 
 builder.Services.AddAuthentication(options =>
 {
@@ -77,9 +87,6 @@ builder.Services.AddAuthentication(options =>
 });
 
 builder.Services.AddAuthorization();
-
-
-
 
 
 

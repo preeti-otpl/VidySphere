@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VidySphere.Application.Interfaces
+
+public interface ITenantProvider
 {
-    public interface ITenantProvider
-    {
-        int GetTenantId();
-    }
+    int GetTenantId();
+
+    int TenantId { get; }
+
 }

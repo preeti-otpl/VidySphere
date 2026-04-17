@@ -15,3 +15,4 @@ D:\Preeti\Training\VidySphere\VidySphere.Infrastructure\obj\Debug\net8.0\refint\
 D:\Preeti\Training\VidySphere\VidySphere.Infrastructure\obj\Debug\net8.0\VidySphere.Infrastructure.pdb
 D:\Preeti\Training\VidySphere\VidySphere.Infrastructure\obj\Debug\net8.0\VidySphere.Infrastructure.genruntimeconfig.cache
 D:\Preeti\Training\VidySphere\VidySphere.Infrastructure\obj\Debug\net8.0\ref\VidySphere.Infrastructure.dll
+D:\Preeti\Training\VidySphere\VidySphere.Infrastructure\obj\Debug\net8.0\VidySphere.Infrastructure.sourcelink.json

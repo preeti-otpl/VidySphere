@@ -13,3 +13,4 @@ D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net8.0\VidySphere
 D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net8.0\refint\VidySphere.Application.dll
 D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net8.0\VidySphere.Application.pdb
 D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net8.0\ref\VidySphere.Application.dll
+D:\Preeti\Training\VidySphere\VidySphere.Application\obj\Debug\net8.0\VidySphere.Application.sourcelink.json
